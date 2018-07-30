@@ -18,7 +18,9 @@ Create the cross :
   3) Create the square 5 thanks to these 4 squares (if their is a problem such as entanglement switch the position of 2 numbers 
   (one of them is the one that is creating the problem) of 2 matrix that are opposite -> (2 and 8) or (4 and 6))
 
+
 ![alt text](Sudoku/images/entanglement.png?raw=true "Entanglement")
+
 
 Create the corners:
 
@@ -29,7 +31,10 @@ Create the corners:
 vertically if the matrix is horizontal to the matrix (look at a picture called switching and yes the numbers 2 and 5 must be on the same 
 column so you make sure not to destroy the rest of the sudoku)
 
+
+
 ![alt text](Sudoku/images/switching.png?raw=true "Switching")
+
 
   -> if the numbers that are creating the problem cannot be switch adequatly -> restart the generation (since it's fast it's not much of an
   issue)
