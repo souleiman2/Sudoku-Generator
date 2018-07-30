@@ -33,5 +33,5 @@ column so you make sure not to destroy the rest of the sudoku)
   -> if the numbers that are creating the problem cannot be switch adequatly -> restart the generation (since it's fast it's not much of an
   issue)
 
-And there you go you have a sudoku generator :)
+And there you go you have a sudoku generator 😃
   
