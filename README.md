@@ -3,9 +3,9 @@
 This is a sudoku generator (not playable but it gives you the solution and the grid with numbers that are deleted).
 I will be creating a playable version soon.
 
-1 2 3
-4 5 6
-7 8 9
+1 2 3\
+4 5 6\
+7 8 9\
 
 -> If you don't feel like reading the code this is what is happening (I will refer to the 3x3 squares by numbers in the same order of the 
 square numbers above):
